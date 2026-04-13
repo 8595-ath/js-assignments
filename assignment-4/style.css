@@ -1,0 +1,17 @@
+body {
+    font-family: Arial;
+    background: white;
+    color: black;
+}
+
+.dark {
+    background: black;
+    color: white;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background: blue;
+    margin: 10px;
+}
