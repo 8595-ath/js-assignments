@@ -55,14 +55,12 @@ console.log(correctfn("I has a pen", "has", "have"));
 
 // ================= Q6 =================
 console.log("\n--- Q6 ---");
+
 let inputArr = [1, 2, 3, 9, 10, 7, 5, 4, 3];
 
-let result6 = inputArr
-  .filter(num => num > 5)
-  .sort((a, b) => a - b);
+let result6 = inputArr.filter(num => num > 5);
 
 console.log(result6);
-
 
 // ================= Q7 =================
 console.log("\n--- Q7 ---");
